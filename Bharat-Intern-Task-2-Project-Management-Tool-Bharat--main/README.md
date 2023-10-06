@@ -1,2 +1,2 @@
-A project management tool is software that helps project managers and teams centralize planning, organize, and manage their projects. It provides project managers and their teams with a centralized platform to collaborate, track progress, and manage tasks.This is task 2 of BharatIntern and HTML JAVASCRIPT and CSS is used.
+A project management tool is software that helps project managers and teams centralize planning, organize, and manage their projects. It provides project managers and their teams with a centralized platform to collaborate, track progress, and manage tasks.
 You can access the site @ https://raw.githack.com/Ananyaghosh1802/task2-BharatIntern-ProjectManagementTool/main/Bharat-Intern-Task-2-Project-Management-Tool-Bharat--main/page.html
